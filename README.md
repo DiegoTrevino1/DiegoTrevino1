@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/diego-trevino-52110b176/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" /> <b>LinkedIn</b>
   </a> &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/diegoo.gold/?hl=en">
-    <img src="https://skillicons.dev/icons?i=instagram" width="20" /> <b>Instagram</b>
-  </a> &nbsp;•&nbsp;
   <a href="https://twitter.com/CodingMonster99">
     <img src="https://skillicons.dev/icons?i=twitter" width="20" /> <b>Twitter</b>
   </a>
